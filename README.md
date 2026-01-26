@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)
 - [awesomeAgentskills](https://github.com/littleben/awesomeAgentskills)
 - [vueuse/skills](https://github.com/vueuse/skills)
 - [claude-code-templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills)
