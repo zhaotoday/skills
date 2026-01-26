@@ -1,4 +1,5 @@
 #### 开源
+- [claude-code-templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills)
 - [skills](https://github.com/anthropics/skills)
 - [skills](https://github.com/openai/skills)
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
