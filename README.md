@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
 - [awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)
 - [awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)
 - [awesomeAgentskills](https://github.com/littleben/awesomeAgentskills)
