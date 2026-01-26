@@ -1,4 +1,5 @@
 #### 开源
+- [expo/skills](https://github.com/expo/skills)
 - [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
