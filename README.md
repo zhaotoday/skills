@@ -1,4 +1,5 @@
 #### 开源
+- [antfu/skills](https://github.com/antfu/skills)
 - [videocut-skills](https://github.com/Ceeon/videocut-skills)
 - [agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)
 - [nuxt-skills](https://github.com/Patrity/nuxt-skills)
