@@ -25,5 +25,6 @@
 - [skillsmp](https://skillsmp.com/zh)
 
 #### 文章
+- [翻遍了全网的 Skills，最推荐这些](https://juejin.cn/post/7599502282602577983)
 - [Agent Skills 傻瓜式教程，26 年最火 AI 技术就这？](https://juejin.cn/post/7599604510366236710)
 - [AI 开发必用的4个skills组合，用来流畅掌控AI开发流程 ，灵活控制AI（opencode skills）](https://juejin.cn/post/7597083743555813419)
