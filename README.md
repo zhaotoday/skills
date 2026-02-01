@@ -1,4 +1,5 @@
 #### 开源
+- [openskills](https://github.com/numman-ali/openskills)
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 - [skillman](https://github.com/pi0/skillman)
 - [skills-npm](https://github.com/antfu/skills-npm)
