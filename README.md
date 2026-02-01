@@ -1,4 +1,5 @@
 #### 开源
+- [open-skills](https://github.com/instavm/open-skills)
 - [n-skills](https://github.com/numman-ali/n-skills)
 - [openskills](https://github.com/numman-ali/openskills)
 - [baoyu-skills](https://github.com/JimLiu/baoyu-skills)
