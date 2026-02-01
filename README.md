@@ -1,4 +1,5 @@
 #### 开源
+- [baoyu-skills](https://github.com/JimLiu/baoyu-skills)
 - [skillman](https://github.com/pi0/skillman)
 - [skills-npm](https://github.com/antfu/skills-npm)
 - [antfu/skills](https://github.com/antfu/skills)
