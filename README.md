@@ -30,6 +30,9 @@
 #### 网站
 - [skillsmp](https://skillsmp.com/zh)
 
+#### 笔记
+- [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
+
 #### 文章
 - [🚀 @empjs/skill：让 AI SKill 管理变得前所未有的简单](https://juejin.cn/post/7597808104463417390)
 - [翻遍了全网的 Skills，最推荐这些](https://juejin.cn/post/7599502282602577983)
