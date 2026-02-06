@@ -1,4 +1,5 @@
 #### 开源
+- [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer)
 - [seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)
