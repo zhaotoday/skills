@@ -1,4 +1,5 @@
 #### 开源
+- [vuejs-ai/skills](https://github.com/vuejs-ai/skills)
 - [vueuse/skills](https://github.com/vueuse/skills)
 - [agent-skills](https://github.com/vercel-labs/agent-skills)
 - [open-skills](https://github.com/instavm/open-skills)
