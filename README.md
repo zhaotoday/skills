@@ -11,6 +11,7 @@
 - [antfu/skills](https://github.com/antfu/skills)
 - [videocut-skills](https://github.com/Ceeon/videocut-skills)
 - [agent-skills-standard](https://github.com/HoangNguyen0403/agent-skills-standard)
+- [nuxt-skills](https://github.com/onmax/nuxt-skills)
 - [nuxt-skills](https://github.com/Patrity/nuxt-skills)
 - [expo/skills](https://github.com/expo/skills)
 - [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)
