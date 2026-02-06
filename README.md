@@ -1,4 +1,5 @@
 #### 开源
+- [ui-skills](https://www.ui-skills.com/)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - [seo-geo-blog-writer](https://github.com/weipanux/seo-geo-blog-writer)
 - [seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)
