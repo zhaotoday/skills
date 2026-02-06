@@ -1,4 +1,5 @@
 #### 开源
+- [agent-skills](https://github.com/vercel-labs/agent-skills)
 - [open-skills](https://github.com/instavm/open-skills)
 - [n-skills](https://github.com/numman-ali/n-skills)
 - [openskills](https://github.com/numman-ali/openskills)
