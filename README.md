@@ -1,4 +1,5 @@
 #### 开源
+- [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)
 - [vuejs-ai/skills](https://github.com/vuejs-ai/skills)
 - [vueuse/skills](https://github.com/vueuse/skills)
 - [agent-skills](https://github.com/vercel-labs/agent-skills)
