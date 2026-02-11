@@ -44,6 +44,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [Agent Skills、Rules、Prompt、MCP，一文把它们理清楚了](https://juejin.cn/post/7599268297201958950)
 - [🚀 @empjs/skill：让 AI SKill 管理变得前所未有的简单](https://juejin.cn/post/7597808104463417390)
 - [翻遍了全网的 Skills，最推荐这些](https://juejin.cn/post/7599502282602577983)
 - [Agent Skills 傻瓜式教程，26 年最火 AI 技术就这？](https://juejin.cn/post/7599604510366236710)
