@@ -47,6 +47,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [7个神级技巧，彻底去除网站的 AI 味儿！](https://juejin.cn/post/7600967006892490761)
 - [Skills Desktop：一个用来管理 Skill 的桌面工具](https://juejin.cn/post/7604080364353667099)
 - [了解Agent Skills，这一篇就够了](https://juejin.cn/post/7597634458697613318)
 - [Agent Skills、Rules、Prompt、MCP，一文把它们理清楚了](https://juejin.cn/post/7599268297201958950)
