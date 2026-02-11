@@ -1,4 +1,5 @@
 #### 开源
+- [vue-nuxt-best-practices](https://github.com/vinayakkulkarni/vue-nuxt-best-practices)
 - [pencil-ui-design](https://github.com/AllenAI2014/pencil-ui-design)
 - [TRAE-Skills](https://github.com/HighMark-31/TRAE-Skills)
 - [code-review-expert](https://github.com/sanyuan0704/code-review-expert)
