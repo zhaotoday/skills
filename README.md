@@ -1,4 +1,5 @@
 #### 开源
+- [frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 - [ai-design-components](https://github.com/ancoleman/ai-design-components)
 - [vue-nuxt-best-practices](https://github.com/vinayakkulkarni/vue-nuxt-best-practices)
 - [pencil-ui-design](https://github.com/AllenAI2014/pencil-ui-design)
