@@ -1,4 +1,5 @@
 #### 开源
+- [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 - [ai-design-components](https://github.com/ancoleman/ai-design-components)
 - [vue-nuxt-best-practices](https://github.com/vinayakkulkarni/vue-nuxt-best-practices)
