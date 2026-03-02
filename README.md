@@ -1,4 +1,5 @@
 #### 开源
+- [canghe-skills](https://github.com/freestylefly/canghe-skills)
 - [skill-scanner](https://github.com/cisco-ai-defense/skill-scanner)
 - [frontend-slides](https://github.com/zarazhangrui/frontend-slides)
 - [ai-design-components](https://github.com/ancoleman/ai-design-components)
