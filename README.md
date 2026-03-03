@@ -53,6 +53,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [10万人都在用的 top10 skills，我帮你试了](https://juejin.cn/post/7604757482005053503)
 - [五分钟带你认识并手搓一个 Skill](https://juejin.cn/post/7600670417859493922)
 - [Vue Skills 发布！Vue3 "AI 避坑指南"！](https://juejin.cn/post/7600326291552419846)
 - [1 个仓库，243 种 skill，3 分钟部署：一人公司的终极赚钱模式！](https://juejin.cn/post/7598574507347050531)
