@@ -46,6 +46,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [skills](https://skills.sh/)
 - [skillsmp](https://skillsmp.com/zh)
 
 #### 笔记
