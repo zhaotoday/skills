@@ -1,4 +1,5 @@
 #### 开源
+- [pm-skills](https://github.com/phuryn/pm-skills)
 - [marketingskills](https://github.com/coreyhaines31/marketingskills)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
 - [canghe-skills](https://github.com/freestylefly/canghe-skills)
