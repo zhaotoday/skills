@@ -1,4 +1,5 @@
 #### 开源
+- [sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [pm-skills](https://github.com/phuryn/pm-skills)
 - [marketingskills](https://github.com/coreyhaines31/marketingskills)
