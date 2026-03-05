@@ -1,4 +1,5 @@
 #### 开源
+- [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [pm-skills](https://github.com/phuryn/pm-skills)
 - [marketingskills](https://github.com/coreyhaines31/marketingskills)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
