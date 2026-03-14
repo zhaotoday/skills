@@ -1,4 +1,5 @@
 #### 开源
+- [skillkit](https://github.com/rohitg00/skillkit)
 - [npm-agentskills](https://github.com/onmax/npm-agentskills)
 - [skillpm](https://github.com/sbroenne/skillpm)
 - [agentskills-mcp](https://github.com/mrsimpson/agentskills-mcp)
