@@ -54,6 +54,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [skild](https://hub.skild.sh/core)
 - [skillpay](https://skillpay.me/)
 - [skills](https://skills.sh/)
 - [skillsmp](https://skillsmp.com/zh)
