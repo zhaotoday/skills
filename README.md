@@ -1,4 +1,6 @@
 #### 开源
+- [npm-agentskills](https://github.com/onmax/npm-agentskills)
+- [skillpm](https://github.com/sbroenne/skillpm)
 - [agentskills-mcp](https://github.com/mrsimpson/agentskills-mcp)
 - [sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
