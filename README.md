@@ -1,4 +1,5 @@
 #### 开源
+- [opencli-skill](https://github.com/joeseesun/opencli-skill)
 - [skillkit](https://github.com/rohitg00/skillkit)
 - [npm-agentskills](https://github.com/onmax/npm-agentskills)
 - [skillpm](https://github.com/sbroenne/skillpm)
