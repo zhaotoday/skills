@@ -1,4 +1,5 @@
 #### 开源
+- [lenny-pm-skills](https://github.com/wuwu119/lenny-pm-skills)
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
 - [opencli-skill](https://github.com/joeseesun/opencli-skill)
 - [skillkit](https://github.com/rohitg00/skillkit)
