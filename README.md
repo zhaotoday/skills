@@ -7,6 +7,7 @@
 - [agentskills-mcp](https://github.com/mrsimpson/agentskills-mcp)
 - [sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills)
 - [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+- [pm-skills](https://github.com/product-on-purpose/pm-skills)
 - [pm-skills](https://github.com/phuryn/pm-skills)
 - [marketingskills](https://github.com/coreyhaines31/marketingskills)
 - [vercel-labs/skills](https://github.com/vercel-labs/skills)
