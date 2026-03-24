@@ -1,4 +1,5 @@
 #### 开源
+- [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)
 - [dbskill](https://github.com/dontbesilent2025/dbskill)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
 - [impeccable](https://github.com/pbakaus/impeccable)
