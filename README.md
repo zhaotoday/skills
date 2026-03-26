@@ -1,4 +1,5 @@
 #### 开源
+- [Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill)
 - [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)
 - [dbskill](https://github.com/dontbesilent2025/dbskill)
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files)
