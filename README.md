@@ -1,4 +1,5 @@
 #### 开源
+- [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [slavingia/skills](https://github.com/slavingia/skills)
 - [wewrite](https://github.com/oaker-io/wewrite)
 - [web-quality-skills](https://github.com/addyosmani/web-quality-skills)
