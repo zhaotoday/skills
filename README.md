@@ -1,4 +1,5 @@
 #### 开源
+- [wewrite](https://github.com/oaker-io/wewrite)
 - [web-quality-skills](https://github.com/addyosmani/web-quality-skills)
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill)
