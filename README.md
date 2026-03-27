@@ -1,4 +1,5 @@
 #### 开源
+- [last30days-skill](https://github.com/mvanhorn/last30days-skill)
 - [Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill)
 - [seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill)
 - [dbskill](https://github.com/dontbesilent2025/dbskill)
