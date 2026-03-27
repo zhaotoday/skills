@@ -1,4 +1,5 @@
 #### 开源
+- [slavingia/skills](https://github.com/slavingia/skills)
 - [wewrite](https://github.com/oaker-io/wewrite)
 - [web-quality-skills](https://github.com/addyosmani/web-quality-skills)
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill)
