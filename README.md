@@ -1,4 +1,5 @@
 #### 开源
+- [typeui](https://www.typeui.sh/)
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [slavingia/skills](https://github.com/slavingia/skills)
