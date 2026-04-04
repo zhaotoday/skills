@@ -1,4 +1,5 @@
 #### 开源
+- [obsidian-skills](https://github.com/kepano/obsidian-skills)
 - [typeui](https://www.typeui.sh/)
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills)
