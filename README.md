@@ -1,4 +1,5 @@
 #### 开源
+- [axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)
 - [obsidian-skills](https://github.com/kepano/obsidian-skills)
 - [typeui](https://www.typeui.sh/)
 - [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
