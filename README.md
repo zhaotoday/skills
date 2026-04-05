@@ -1,4 +1,5 @@
 #### 开源
+- [PromptHub](https://github.com/legeling/PromptHub)
 - [xiaohongshu-skills](https://github.com/autoclaw-cc/xiaohongshu-skills)
 - [mcollina/skills](https://github.com/mcollina/skills)
 - [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills)
