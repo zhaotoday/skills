@@ -1,4 +1,5 @@
 #### 开源
+- [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills)
 - [axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)
 - [obsidian-skills](https://github.com/kepano/obsidian-skills)
 - [typeui](https://www.typeui.sh/)
