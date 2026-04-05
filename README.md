@@ -1,4 +1,5 @@
 #### 开源
+- [xiaohongshu-skills](https://github.com/autoclaw-cc/xiaohongshu-skills)
 - [mcollina/skills](https://github.com/mcollina/skills)
 - [xiaotianfotos/skills](https://github.com/xiaotianfotos/skills)
 - [axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)
