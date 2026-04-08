@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
 - [ex-skill](https://github.com/therealXiaomanChu/ex-skill)
 - [x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill)
 - [chujianyun/skills](https://github.com/chujianyun/skills)
