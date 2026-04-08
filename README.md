@@ -1,4 +1,5 @@
 #### 开源
+- [x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill)
 - [chujianyun/skills](https://github.com/chujianyun/skills)
 - [wlzh/skills](https://github.com/wlzh/skills)
 - [PromptHub](https://github.com/legeling/PromptHub)
