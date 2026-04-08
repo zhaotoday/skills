@@ -1,4 +1,5 @@
 #### 开源
+- [yourself-skill](https://github.com/notdog1998/yourself-skill)
 - [awesome-persona-skills](https://github.com/tmstack/awesome-persona-skills)
 - [ex-skill](https://github.com/therealXiaomanChu/ex-skill)
 - [x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill)
