@@ -1,4 +1,5 @@
 #### 开源
+- [happy-skills](https://github.com/notedit/happy-skills)
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
 - [awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
 - [yourself-skill](https://github.com/notdog1998/yourself-skill)
