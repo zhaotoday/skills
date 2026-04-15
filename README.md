@@ -90,6 +90,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [🚀 常用 Skill 速查手册](https://hk4114.github.io/my-reports/reports/%E5%B8%B8%E7%94%A8%20Skill%20%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C.html)
 - [skild](https://hub.skild.sh/core)
 - [skillpay](https://skillpay.me/)
 - [skills](https://skills.sh/)
