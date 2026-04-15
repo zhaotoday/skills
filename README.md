@@ -100,6 +100,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [研发场景十大热门 Skills 推荐](https://juejin.cn/post/7604964464689610815)
 - [Agent Skills工作流：从入门到实战](https://juejin.cn/post/7600994087588053011)
 - [Skills 是什么？如何用于 Agent 开发？](https://juejin.cn/post/7614331029458026531)
 - [别搞混了！MCP 和 Agent Skill 到底有什么区别？](https://juejin.cn/post/7584057497205817387)
