@@ -1,4 +1,5 @@
 #### 开源
+- [PageSkill](https://github.com/AIPMAndy/PageSkill)
 - [mini-wiki](https://github.com/trsoliu/mini-wiki)
 - [happy-skills](https://github.com/notedit/happy-skills)
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
