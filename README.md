@@ -1,4 +1,5 @@
 #### 开源
+- [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)
 - [ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)
 - [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill)
 - [marketing-skills](https://github.com/kostja94/marketing-skills)
