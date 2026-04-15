@@ -101,6 +101,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [40 个 Agent Skills 精选资源：入门教程 + 实用工具 + 必装推荐](https://zhuanlan.zhihu.com/p/2005281822490268572)
 - [研发场景十大热门 Skills 推荐](https://juejin.cn/post/7604964464689610815)
 - [Agent Skills工作流：从入门到实战](https://juejin.cn/post/7600994087588053011)
 - [Skills 是什么？如何用于 Agent 开发？](https://juejin.cn/post/7614331029458026531)
