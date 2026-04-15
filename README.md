@@ -1,4 +1,5 @@
 #### 开源
+- [Google-SEOs.skill](https://github.com/zlbigger/Google-SEOs.skill)
 - [PageSkill](https://github.com/AIPMAndy/PageSkill)
 - [mini-wiki](https://github.com/trsoliu/mini-wiki)
 - [happy-skills](https://github.com/notedit/happy-skills)
