@@ -1,4 +1,5 @@
 #### 开源
+- [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill)
 - [marketing-skills](https://github.com/kostja94/marketing-skills)
 - [toprank](https://github.com/nowork-studio/toprank)
 - [Google-SEOs.skill](https://github.com/zlbigger/Google-SEOs.skill)
