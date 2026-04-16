@@ -1,4 +1,5 @@
 #### 开源
+- [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)
 - [autojs6-Doc-skills](https://github.com/icxz000/autojs6-Doc-skills)
 - [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)
 - [geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)
