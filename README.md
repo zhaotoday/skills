@@ -1,4 +1,5 @@
 #### 开源
+- [opc-skills](https://github.com/ReScienceLab/opc-skills)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
 - [html-ppt-skill](https://github.com/lewislulu/html-ppt-skill)
