@@ -1,4 +1,5 @@
 #### 开源
+- [claude-seo](https://github.com/AgriciDaniel/claude-seo)
 - [opc-skills](https://github.com/ReScienceLab/opc-skills)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
