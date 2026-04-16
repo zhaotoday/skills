@@ -1,4 +1,5 @@
 #### 开源
+- [geo-audit-skill](https://github.com/zilisrikle/geo-audit-skill)
 - [geo-skills](https://github.com/geoly-ai/geo-skills)
 - [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill)
 - [yao-geo-skills](https://github.com/yaojingang/yao-geo-skills)
