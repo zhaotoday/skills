@@ -1,4 +1,5 @@
 #### 开源
+- [claude-design-skill](https://github.com/jiji262/claude-design-skill)
 - [make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better)
 - [taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [geo-audit-skill](https://github.com/zilisrikle/geo-audit-skill)
