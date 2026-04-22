@@ -1,4 +1,5 @@
 #### 开源
+- [taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [geo-audit-skill](https://github.com/zilisrikle/geo-audit-skill)
 - [geo-skills](https://github.com/geoly-ai/geo-skills)
 - [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill)
