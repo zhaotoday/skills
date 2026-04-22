@@ -1,4 +1,5 @@
 #### 开源
+- [make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better)
 - [taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [geo-audit-skill](https://github.com/zilisrikle/geo-audit-skill)
 - [geo-skills](https://github.com/geoly-ai/geo-skills)
