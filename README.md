@@ -1,4 +1,5 @@
 #### 开源
+- [huashu-design](https://github.com/alchaincyf/huashu-design)
 - [cc-design](https://github.com/ZeroZ-lab/cc-design)
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
 - [claude-design-skill](https://github.com/jiji262/claude-design-skill)
