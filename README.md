@@ -1,4 +1,5 @@
 #### 开源
+- [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
 - [huashu-design](https://github.com/alchaincyf/huashu-design)
 - [cc-design](https://github.com/ZeroZ-lab/cc-design)
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
