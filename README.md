@@ -1,4 +1,5 @@
 #### 开源
+- [mattpocock/skills](https://github.com/mattpocock/skills)
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [playwright-skill](https://github.com/lackeyjb/playwright-skill)
 - [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
