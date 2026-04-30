@@ -1,4 +1,5 @@
 #### 开源
+- [agent-skills](https://github.com/addyosmani/agent-skills)
 - [mattpocock/skills](https://github.com/mattpocock/skills)
 - [stitch-skills](https://github.com/google-labs-code/stitch-skills)
 - [playwright-skill](https://github.com/lackeyjb/playwright-skill)
