@@ -1,4 +1,5 @@
 #### 开源
+- [frontend-design-skills-showcase](https://frontend-design-skills-showcase.pages.dev/)
 - [open-design](https://github.com/nexu-io/open-design)
 - [agent-skills](https://github.com/addyosmani/agent-skills)
 - [mattpocock/skills](https://github.com/mattpocock/skills)
