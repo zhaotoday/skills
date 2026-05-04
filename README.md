@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-skills-cn](https://github.com/lingxling/awesome-skills-cn)
 - [frontend-design-skills-showcase](https://frontend-design-skills-showcase.pages.dev/)
 - [open-design](https://github.com/nexu-io/open-design)
 - [agent-skills](https://github.com/addyosmani/agent-skills)
