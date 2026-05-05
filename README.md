@@ -1,4 +1,5 @@
 #### 开源
+- [full-stack-skills](https://github.com/partme-ai/full-stack-skills)
 - [awesome-skills-cn](https://github.com/lingxling/awesome-skills-cn)
 - [frontend-design-skills-showcase](https://frontend-design-skills-showcase.pages.dev/)
 - [open-design](https://github.com/nexu-io/open-design)
