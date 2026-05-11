@@ -1,4 +1,5 @@
 #### 开源
+- [garden-skills](https://github.com/ConardLi/garden-skills)
 - [wx-chevalier/Awesome-Agent-Skills](https://github.com/wx-chevalier/Awesome-Agent-Skills)
 - [full-stack-skills](https://github.com/partme-ai/full-stack-skills)
 - [awesome-skills-cn](https://github.com/lingxling/awesome-skills-cn)
