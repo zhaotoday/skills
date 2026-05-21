@@ -1,4 +1,5 @@
 #### 开源
+- [html-anything](https://github.com/nexu-io/html-anything)
 - [garden-skills](https://github.com/ConardLi/garden-skills)
 - [wx-chevalier/Awesome-Agent-Skills](https://github.com/wx-chevalier/Awesome-Agent-Skills)
 - [full-stack-skills](https://github.com/partme-ai/full-stack-skills)
