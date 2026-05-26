@@ -1,4 +1,5 @@
 #### 开源
+- [NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)
 - [gemini-skill](https://github.com/WJZ-P/gemini-skill)
 - [html-anything](https://github.com/nexu-io/html-anything)
 - [garden-skills](https://github.com/ConardLi/garden-skills)
