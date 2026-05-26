@@ -1,4 +1,5 @@
 #### 开源
+- [gemini-skill](https://github.com/WJZ-P/gemini-skill)
 - [html-anything](https://github.com/nexu-io/html-anything)
 - [garden-skills](https://github.com/ConardLi/garden-skills)
 - [wx-chevalier/Awesome-Agent-Skills](https://github.com/wx-chevalier/Awesome-Agent-Skills)
