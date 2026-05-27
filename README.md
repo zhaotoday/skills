@@ -1,4 +1,5 @@
 #### 开源
+- [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)
 - [writing-agent](https://github.com/dongbeixiaohuo/writing-agent)
 - [hallmark](https://github.com/Nutlope/hallmark)
 - [NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)
