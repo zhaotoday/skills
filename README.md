@@ -1,5 +1,5 @@
 #### 开源
-- [bb-browser](https://github.com/epiral/bb-browser)
+- [writing-agent](https://github.com/dongbeixiaohuo/writing-agent)
 - [hallmark](https://github.com/Nutlope/hallmark)
 - [NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)
 - [gemini-skill](https://github.com/WJZ-P/gemini-skill)
