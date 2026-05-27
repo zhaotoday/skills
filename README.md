@@ -1,4 +1,5 @@
 #### 开源
+- [nuxt-skill-hub](https://github.com/onmax/nuxt-skill-hub)
 - [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)
 - [AIWriteX](https://github.com/iniwap/AIWriteX)
 - [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei)
