@@ -1,4 +1,5 @@
 #### 开源
+- [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei)
 - [ximen-aimazi](https://github.com/ximencuisu/ximen-aimazi)
 - [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)
 - [writing-agent](https://github.com/dongbeixiaohuo/writing-agent)
