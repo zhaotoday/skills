@@ -1,4 +1,5 @@
 #### 开源
+- [stop-slop](https://github.com/hardikpandya/stop-slop)
 - [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 - [Kami](https://github.com/tw93/Kami)
 - [nuxt-skill-hub](https://github.com/onmax/nuxt-skill-hub)
