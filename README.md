@@ -148,6 +148,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [Skill学习指南](https://juejin.cn/post/7620262637797408808)
 - [前端开发必装 Skill 清单：让你的 AI 编程体验原地起飞](https://juejin.cn/post/7640677540941905970)
 - [40 个 Agent Skills 精选资源：入门教程 + 实用工具 + 必装推荐](https://zhuanlan.zhihu.com/p/2005281822490268572)
 - [研发场景十大热门 Skills 推荐](https://juejin.cn/post/7604964464689610815)
