@@ -1,4 +1,5 @@
 #### 开源
+- [ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
 - [Kami](https://github.com/tw93/Kami)
 - [nuxt-skill-hub](https://github.com/onmax/nuxt-skill-hub)
 - [oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode)
