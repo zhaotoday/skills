@@ -1,4 +1,5 @@
 #### 开源
+- [UZI-Skill](https://github.com/wbh604/UZI-Skill)
 - [browser-act/skills](https://github.com/browser-act/skills)
 - [anysearch-skill](https://github.com/anysearch-ai/anysearch-skill)
 - [stop-slop](https://github.com/hardikpandya/stop-slop)
