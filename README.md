@@ -1,4 +1,5 @@
 #### 开源
+- [web-access](https://github.com/eze-is/web-access)
 - [weread-skills](https://weread.qq.com/r/weread-skills)
 - [UZI-Skill](https://github.com/wbh604/UZI-Skill)
 - [browser-act/skills](https://github.com/browser-act/skills)
