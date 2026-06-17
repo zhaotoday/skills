@@ -1,4 +1,5 @@
 #### 开源
+- [seo-geo-audit](https://github.com/dageno-agents/seo-geo-audit)
 - [unifapi-agent/agents](https://github.com/unifapi-agent/agents)
 - [seo-skills](https://github.com/seranking/seo-skills)
 - [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill)
