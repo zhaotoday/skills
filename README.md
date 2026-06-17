@@ -1,4 +1,5 @@
 #### 开源
+- [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 - [anbeime/skill](https://github.com/anbeime/skill)
 - [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)
