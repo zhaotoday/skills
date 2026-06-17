@@ -1,4 +1,5 @@
 #### 开源
+- [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
 - [NotFair](https://github.com/nowork-studio/NotFair)
 - [seo-geo-audit](https://github.com/dageno-agents/seo-geo-audit)
 - [unifapi-agent/agents](https://github.com/unifapi-agent/agents)
