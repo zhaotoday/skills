@@ -1,4 +1,5 @@
 #### 开源
+- [seo-geo-skills](https://github.com/iklynow-hue/seo-geo-skills)
 - [digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
