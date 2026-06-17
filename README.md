@@ -166,6 +166,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [分享前端项目常用的三个Skills--Vue、React 与 UI 核心 Skills](https://juejin.cn/post/7599641289887055918)
 - [前端领域 30 个值得安装的 Agent Skills](https://juejin.cn/post/7648545475571859475)
 - [手把手教你写一个 AI Skill，让 AI 真正学会你的工作流](https://juejin.cn/post/7642171057679859775)
 - [Skill学习指南](https://juejin.cn/post/7620262637797408808)
