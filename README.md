@@ -1,4 +1,5 @@
 #### 开源
+- [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 - [anbeime/skill](https://github.com/anbeime/skill)
 - [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
