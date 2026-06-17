@@ -1,4 +1,5 @@
 #### 开源
+- [digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
 - [guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
 - [anbeime/skill](https://github.com/anbeime/skill)
