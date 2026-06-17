@@ -1,4 +1,5 @@
 #### 开源
+- [anbeime/skill](https://github.com/anbeime/skill)
 - [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
 - [web-access](https://github.com/eze-is/web-access)
