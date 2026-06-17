@@ -1,4 +1,5 @@
 #### 开源
+- [GEO-Content-Optimizer-Skill](https://github.com/liangdabiao/GEO-Content-Optimizer-Skill)
 - [seo-geo-skills](https://github.com/iklynow-hue/seo-geo-skills)
 - [digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
