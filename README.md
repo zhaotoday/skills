@@ -1,4 +1,5 @@
 #### 开源
+- [ai-marketing-claude](https://github.com/zubair-trabzada/ai-marketing-claude)
 - [hyperframes](https://github.com/heygen-com/hyperframes)
 - [web-access](https://github.com/eze-is/web-access)
 - [weread-skills](https://weread.qq.com/r/weread-skills)
