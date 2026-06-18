@@ -1,4 +1,5 @@
 #### 开源
+- [codex-seo](https://github.com/AgriciDaniel/codex-seo)
 - [claude-skills](https://github.com/rampstackco/claude-skills)
 - [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
 - [NotFair](https://github.com/nowork-studio/NotFair)
