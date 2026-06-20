@@ -1,4 +1,5 @@
 #### 开源
+- [cloudflare-tunnel-skill](https://github.com/xiaoyuboi/cloudflare-tunnel-skill)
 - [codex-seo](https://github.com/AgriciDaniel/codex-seo)
 - [claude-skills](https://github.com/rampstackco/claude-skills)
 - [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
