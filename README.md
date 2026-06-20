@@ -1,4 +1,5 @@
 #### 开源
+- [ai-seo-audit](https://github.com/context-dot-dev/ai-seo-audit)
 - [cloudflare-tunnel-skill](https://github.com/xiaoyuboi/cloudflare-tunnel-skill)
 - [codex-seo](https://github.com/AgriciDaniel/codex-seo)
 - [claude-skills](https://github.com/rampstackco/claude-skills)
