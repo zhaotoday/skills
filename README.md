@@ -1,4 +1,5 @@
 #### 开源
+- [superpowers](https://github.com/obra/superpowers)
 - [seomachine](https://github.com/TheCraigHewitt/seomachine)
 - [ai-seo-audit](https://github.com/context-dot-dev/ai-seo-audit)
 - [cloudflare-tunnel-skill](https://github.com/xiaoyuboi/cloudflare-tunnel-skill)
