@@ -1,4 +1,5 @@
 #### 开源
+- [superseo-skills](https://github.com/inhouseseo/superseo-skills)
 - [superpowers](https://github.com/obra/superpowers)
 - [seomachine](https://github.com/TheCraigHewitt/seomachine)
 - [ai-seo-audit](https://github.com/context-dot-dev/ai-seo-audit)
