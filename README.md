@@ -1,4 +1,5 @@
 #### 开源
+- [hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill)
 - [AntiDebug_Breaker](https://github.com/0xsdeo/AntiDebug_Breaker)
 - [camoufox-reverse-mcp](https://github.com/WhiteNightShadow/camoufox-reverse-mcp)
 - [js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill)
