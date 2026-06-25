@@ -1,4 +1,5 @@
 #### 开源
+- [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization)
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills)
 - [superpowers](https://github.com/obra/superpowers)
 - [seomachine](https://github.com/TheCraigHewitt/seomachine)
