@@ -1,4 +1,5 @@
 #### 开源
+- [reverse-skill](https://github.com/715494637/reverse-skill)
 - [google-ai-search-optimization](https://github.com/deepakness/google-ai-search-optimization)
 - [superseo-skills](https://github.com/inhouseseo/superseo-skills)
 - [superpowers](https://github.com/obra/superpowers)
