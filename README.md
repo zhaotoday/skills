@@ -1,4 +1,5 @@
 #### 开源
+- [reverse-skills](https://github.com/P4nda0s/reverse-skills)
 - [js_reverse](https://github.com/luzhisheng/js_reverse)
 - [js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
 - [hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill)
