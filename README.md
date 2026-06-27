@@ -1,4 +1,5 @@
 #### 开源
+- [xiaohu-ip-studio](https://github.com/xiaohuailabs/xiaohu-ip-studio)
 - [qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
 - [reverse-skills](https://github.com/P4nda0s/reverse-skills)
 - [js_reverse](https://github.com/luzhisheng/js_reverse)
