@@ -1,4 +1,5 @@
 #### 开源
+- [design-md-chrome](https://github.com/bergside/design-md-chrome)
 - [xiaohu-ip-studio](https://github.com/xiaohuailabs/xiaohu-ip-studio)
 - [qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
 - [reverse-skills](https://github.com/P4nda0s/reverse-skills)
