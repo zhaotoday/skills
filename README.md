@@ -174,6 +174,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [typeui](https://www.typeui.sh/)
 - [skills66](https://skills66.com/)
 - [常用 Skill 速查手册](https://juejin.cn/post/7624045455787966474)
 - [skild](https://hub.skild.sh/core)
