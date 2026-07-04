@@ -1,4 +1,5 @@
 #### 开源
+- [skills-manager](https://github.com/xingkongliang/skills-manager)
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 - [design.md](https://github.com/google-labs-code/design.md)
 - [design-md-chrome](https://github.com/bergside/design-md-chrome)
