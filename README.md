@@ -1,4 +1,5 @@
 #### 开源
+- [geo-content-writer](https://github.com/dageno-agents/geo-content-writer)
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
 - [skills-manager](https://github.com/xingkongliang/skills-manager)
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
