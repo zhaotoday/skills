@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-design-skills](https://github.com/bergside/awesome-design-skills)
 - [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills)
 - [geo-content-writer](https://github.com/dageno-agents/geo-content-writer)
