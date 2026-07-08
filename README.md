@@ -1,4 +1,5 @@
 #### 开源
+- [baoyu-design](https://github.com/JimLiu/baoyu-design)
 - [motion-design-skill](https://github.com/LottieFiles/motion-design-skill)
 - [awesome-design-skills](https://github.com/bergside/awesome-design-skills)
 - [gzh-design-skill](https://github.com/isjiamu/gzh-design-skill)
