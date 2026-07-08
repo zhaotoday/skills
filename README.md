@@ -1,4 +1,5 @@
 #### 开源
+- [video-production-skills](https://github.com/Pluviobyte/video-production-skills)
 - [ai-business-skills](https://github.com/minhnv0807/ai-business-skills)
 - [Chinese-WebNovel-Skill](https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill)
 - [baoyu-design](https://github.com/JimLiu/baoyu-design)
