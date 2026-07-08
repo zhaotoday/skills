@@ -1,4 +1,5 @@
 #### 开源
+- [power-design](https://github.com/ItsssssJack/power-design)
 - [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
 - [video-production-skills](https://github.com/Pluviobyte/video-production-skills)
 - [ai-business-skills](https://github.com/minhnv0807/ai-business-skills)
