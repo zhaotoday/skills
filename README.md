@@ -1,4 +1,5 @@
 #### 开源
+- [emilkowalski/skills](https://github.com/emilkowalski/skills)
 - [geo-content-writer](https://github.com/dageno-agents/geo-content-writer)
 - [Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)
 - [skills-manager](https://github.com/xingkongliang/skills-manager)
