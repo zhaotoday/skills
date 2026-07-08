@@ -1,4 +1,5 @@
 #### 开源
+- [ai-business-skills](https://github.com/minhnv0807/ai-business-skills)
 - [Chinese-WebNovel-Skill](https://github.com/Tomsawyerhu/Chinese-WebNovel-Skill)
 - [baoyu-design](https://github.com/JimLiu/baoyu-design)
 - [motion-design-skill](https://github.com/LottieFiles/motion-design-skill)
