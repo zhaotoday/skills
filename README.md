@@ -1,4 +1,5 @@
 #### 开源
+- [humanizer](https://github.com/blader/humanizer)
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector)
 - [wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills)
 - [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
