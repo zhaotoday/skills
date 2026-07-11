@@ -1,4 +1,5 @@
 #### 开源
+- [wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills)
 - [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
 - [power-design](https://github.com/ItsssssJack/power-design)
 - [ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills)
