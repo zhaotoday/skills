@@ -1,4 +1,5 @@
 #### 开源
+- [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
 - [humanizer](https://github.com/blader/humanizer)
 - [SkillSpector](https://github.com/NVIDIA/SkillSpector)
 - [wechat-article-skills](https://github.com/aiworkskills/wechat-article-skills)
