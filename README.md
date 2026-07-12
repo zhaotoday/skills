@@ -1,4 +1,5 @@
 #### 开源
+- [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - [designer-skills](https://github.com/julianoczkowski/designer-skills)
 - [patina](https://github.com/devswha/patina)
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
