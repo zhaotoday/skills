@@ -199,6 +199,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [tasteskill](https://www.tasteskill.dev/)
 - [superdesign](https://superdesign.dev/)
 - [getdesign](https://getdesign.md/)
 - [typeui](https://www.typeui.sh/)
