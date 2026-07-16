@@ -219,6 +219,9 @@
 #### 笔记
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
+#### 视频
+- [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
+
 #### 文章
 - [2 万多 Star！Google 开源了这个神级 GitHub 项目。](https://zhuanlan.zhihu.com/p/2055968818229417793)
 - [程序员必备的 Design Skills，不要让 UI 成为产品短板](https://mp.weixin.qq.com/s/BkReBmLwipxyYNfU-UmyHw)
