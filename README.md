@@ -220,6 +220,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 文章
+- [2 万多 Star！Google 开源了这个神级 GitHub 项目。](https://zhuanlan.zhihu.com/p/2055968818229417793)
 - [程序员必备的 Design Skills，不要让 UI 成为产品短板](https://mp.weixin.qq.com/s/BkReBmLwipxyYNfU-UmyHw)
 - [UI Skills 工作流指南](https://zhuanlan.zhihu.com/p/2059909621976978803)
 - [每日一个开源项目（第125篇）：taste-skill - 给 AI 装上审美，让前端不再千篇一律](https://juejin.cn/post/7648882056709144639)
