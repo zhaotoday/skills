@@ -199,6 +199,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [ui-skills](https://www.ui-skills.com/)
 - [typeui](https://www.typeui.sh/)
 - [superdesign](https://superdesign.dev/)
 - [cocoloop](https://hub.cocoloop.cn/)
