@@ -199,6 +199,7 @@
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 网站
+- [superdesign](https://superdesign.dev/)
 - [cocoloop](https://hub.cocoloop.cn/)
 - [前端设计 Skills 大横评](https://frontend-design-skills-showcase.pages.dev/)
 - [tasteskill](https://www.tasteskill.dev/)
