@@ -1,4 +1,5 @@
 #### 开源
+- [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master)
 - [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
 - npx skills add anthropics/skills --skill frontend-design
 - [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
