@@ -222,6 +222,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 视频
+- [Taste-Skill：给AI装上设计品味，专治千篇一律的slop界面](https://www.bilibili.com/video/BV1nWEy6gELg/)
 - [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
