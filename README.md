@@ -1,3 +1,29 @@
+#### 网站
+- [ui-skills](https://www.ui-skills.com/)
+- [typeui](https://www.typeui.sh/)
+- [superdesign](https://superdesign.dev/)
+- [cocoloop](https://hub.cocoloop.cn/)
+- [前端设计 Skills 大横评](https://frontend-design-skills-showcase.pages.dev/)
+- [tasteskill](https://www.tasteskill.dev/)
+- [superdesign](https://superdesign.dev/)
+- [getdesign](https://getdesign.md/)
+- [typeui](https://www.typeui.sh/)
+- [skills66](https://skills66.com/)
+- [常用 Skill 速查手册](https://juejin.cn/post/7624045455787966474)
+- [skild](https://hub.skild.sh/core)
+- [skillpay](https://skillpay.me/)
+- [skills](https://skills.sh/)
+- [skillsmp](https://skillsmp.com/zh)
+
+#### 笔记
+- [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
+
+#### 视频
+- [17 万星 skills 里最火的一个：grill-me - 动手之前，先被 AI 问明白](https://www.bilibili.com/video/BV18pKy6oESJ/)
+- [Taste-Skill：给AI装上设计品味，专治千篇一律的slop界面](https://www.bilibili.com/video/BV1nWEy6gELg/)
+- [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
+- [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
+
 #### 开源
 - [hallmark](https://github.com/Nutlope/hallmark)
 - [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master)
@@ -200,31 +226,6 @@
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - [ui-ux-pro-max-skill-cn](https://github.com/bbylw/ui-ux-pro-max-skill-cn)
 - [add-skill](https://github.com/vercel-labs/add-skill)
-
-#### 网站
-- [ui-skills](https://www.ui-skills.com/)
-- [typeui](https://www.typeui.sh/)
-- [superdesign](https://superdesign.dev/)
-- [cocoloop](https://hub.cocoloop.cn/)
-- [前端设计 Skills 大横评](https://frontend-design-skills-showcase.pages.dev/)
-- [tasteskill](https://www.tasteskill.dev/)
-- [superdesign](https://superdesign.dev/)
-- [getdesign](https://getdesign.md/)
-- [typeui](https://www.typeui.sh/)
-- [skills66](https://skills66.com/)
-- [常用 Skill 速查手册](https://juejin.cn/post/7624045455787966474)
-- [skild](https://hub.skild.sh/core)
-- [skillpay](https://skillpay.me/)
-- [skills](https://skills.sh/)
-- [skillsmp](https://skillsmp.com/zh)
-
-#### 笔记
-- [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
-
-#### 视频
-- [Taste-Skill：给AI装上设计品味，专治千篇一律的slop界面](https://www.bilibili.com/video/BV1nWEy6gELg/)
-- [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
-- [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 文章
 - [2 万多 Star！Google 开源了这个神级 GitHub 项目。](https://zhuanlan.zhihu.com/p/2055968818229417793)
