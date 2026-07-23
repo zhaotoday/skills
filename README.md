@@ -25,6 +25,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 开源
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [hallmark](https://github.com/Nutlope/hallmark)
 - [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master)
 - [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
