@@ -24,13 +24,18 @@
 - [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
+#### UI
+- [taste-skill](https://github.com/Leonxlnx/taste-skill)
+- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+- [ui-ux-pro-max-skill-cn](https://github.com/bbylw/ui-ux-pro-max-skill-cn)
+- npx skills add anthropics/skills --skill frontend-design
+
 #### 开源
 - [wshobson/agents](https://github.com/wshobson/agents)
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [hallmark](https://github.com/Nutlope/hallmark)
 - [Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master)
 - [awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
-- npx skills add anthropics/skills --skill frontend-design
 - [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
 - [designer-skills](https://github.com/julianoczkowski/designer-skills)
 - [patina](https://github.com/devswha/patina)
@@ -121,7 +126,6 @@
 - [uilayouts](https://github.com/ui-layouts/uilayouts)
 - [claude-design-skill](https://github.com/jiji262/claude-design-skill)
 - [make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better)
-- [taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [geo-audit-skill](https://github.com/zilisrikle/geo-audit-skill)
 - [geo-skills](https://github.com/geoly-ai/geo-skills)
 - [geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill)
@@ -225,8 +229,6 @@
 - [claude-code-templates](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills)
 - [skills](https://github.com/anthropics/skills)
 - [skills](https://github.com/openai/skills)
-- [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
-- [ui-ux-pro-max-skill-cn](https://github.com/bbylw/ui-ux-pro-max-skill-cn)
 - [add-skill](https://github.com/vercel-labs/add-skill)
 
 #### 文章
