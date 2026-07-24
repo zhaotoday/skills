@@ -19,6 +19,7 @@
 - [Agent Skills 蓝皮书](https://my.feishu.cn/wiki/HMkcwJwyFi9Rtwk5VzScApWEn2c)
 
 #### 视频
+- [AI 写 UI 总是风格不统一？聊聊 DESIGN.md](https://www.bilibili.com/video/BV1KpTW6cE6t/)
 - [17 万星 skills 里最火的一个：grill-me - 动手之前，先被 AI 问明白](https://www.bilibili.com/video/BV18pKy6oESJ/)
 - [Taste-Skill：给AI装上设计品味，专治千篇一律的slop界面](https://www.bilibili.com/video/BV1nWEy6gELg/)
 - [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
