@@ -55,6 +55,8 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-fro
 
 `--skill` 后面传的是**安装名（install name）**，即 `SKILL.md` frontmatter 里的 `name:` 字段，**不是文件夹名**。
 
+> **关于 `npx skills add`**：这是 [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) 提供的通用 CLI，用于把任何符合规范的 `SKILL.md` 安装到项目里。Taste Skill 本身不附带安装器，依赖这个社区 CLI。
+
 ### 2. 装全部技能
 
 ```bash
@@ -217,6 +219,10 @@ Agent 在写代码前先读六类信号：
 Reading this as: B2B SaaS landing for technical buyers,
 with a Linear-style minimalist language,
 leaning toward Tailwind utilities + Geist + restrained motion.
+
+（译：判读为：面向技术买家的 B2B SaaS 落地页，
+采用 Linear 式极简设计语言，
+倾向 Tailwind 工具类 + Geist 字体 + 克制的动效。）
 ```
 
 如果需求确实模糊，Agent **只问一个问题**（不会连环追问），例如「这个更接近 Linear 式干净，还是 Awwwards 式实验？」。能从上下文推断出来就不问。
@@ -442,6 +448,10 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "minimalist-ui"
 Reading this as: B2B SaaS landing for project managers,
 with a Linear-style minimalist language,
 leaning toward Tailwind v4 + Geist + restrained motion.
+
+（译：判读为：面向项目经理的 B2B SaaS 落地页，
+采用 Linear 式极简设计语言，
+倾向 Tailwind v4 + Geist 字体 + 克制的动效。）
 
 Dials: DESIGN_VARIANCE 6 / MOTION_INTENSITY 3 / VISUAL_DENSITY 3
 （依据「极简 / Linear 风」信号，从基线 8/6/4 下调）
@@ -726,6 +736,15 @@ Taste Skill **没有命令，也没有 `PRODUCT.md` 之类的上下文文件**�
 
 **图片生成技能也能用 `npx skills add` 装吗？**
 可以。它们和代码技能一起放在 `skills/` 下，同一个 CLI 就能发现。
+
+**能和 Impeccable 同时用吗？**
+可以共存但要注意冲突。两者都有反套路规则（禁 AI 紫渐变、三张等宽卡等），叠加使用不会打架；但 Taste Skill 的默认技术栈偏好（React + Tailwind v4 + Motion）可能和 Impeccable 的 `DESIGN.md` 里指定的不同技术栈产生分歧。建议：如果你已经用 Impeccable 的 `init` 建立了完整的 `PRODUCT.md` + `DESIGN.md`，则以 Impeccable 为主控；如果你只想要一个被动的「品味护栏」而不需要斜杠命令交互，则单独用 Taste Skill 更轻量。**不建议两个同时装在一个项目里**——选一个作为设计主规范即可。
+
+**`npx skills add` 命令是谁提供的？**
+来自 [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)，这是一个社区通用的 Agent Skill 安装 CLI。Taste Skill 本身不附带安装器。
+
+**修改了 `SKILL.md` 后需要重启 Agent 吗？**
+不需要。Agent 每次运行时都会重读文件，改动在下一轮生成时立即生效。
 
 **关于代币的声明**：Taste Skill **没有**任何官方 token、币或加密项目。任何借用作者名义的代币均与本项目无关。
 
