@@ -509,22 +509,196 @@ npx skills add https://github.com/Leonxlnx/taste-skill --skill "redesign-existin
 
 Agent 会先出审计报告（品牌 tokens、信息架构、要保留/淘汰的模式、SEO 基线、现状档位读数），再按「排版 → 间距 → 色彩 → 动效 → Hero 重构」的低风险顺序推进。
 
-### 图片优先流程（先出稿再写码）
+### 图片优先流程（先出设计稿，确认后再写代码）
+
+见下方「十三、图片优先完整流程」。
+
+---
+
+## 十三、图片优先完整流程：先出设计稿，确认后再写代码
+
+Taste Skill 最独特的能力之一是**「先生成设计参考图 → 你确认 → 再按图实现代码」**，而不是 Agent 直接猜着写。这个流程由以下技能组合完成：
+
+- **`imagegen-frontend-web`**：只出图（网站板块参考稿），不出代码。
+- **`imagegen-frontend-mobile`**：只出图（移动端界面参考稿）。
+- **`brandkit`**：只出图（品牌套件板：Logo 方向、配色、字体）。
+- **`image-to-code`**：**完整流水线**——先出图、深度分析、再实现代码。一个技能搞定全流程。
+
+### 该装哪个
+
+| 你的需求 | 安装 |
+| --- | --- |
+| 出图+分析+写码一条龙 | `image-to-code` |
+| 只想出视觉稿，代码自己来或交给另一个 Agent | `imagegen-frontend-web` / `imagegen-frontend-mobile` |
+| 先做品牌方向探索（Logo/配色/字体） | `brandkit` |
+| 想要最大灵活度（分步确认） | `imagegen-frontend-web` + 核心 `taste-skill` 分开装 |
+
+### 第 1 步：安装技能
+
+**方式 A：一条龙（推荐）** —— 出图+分析+代码全自动：
 
 ```bash
 npx skills add https://github.com/Leonxlnx/taste-skill --skill "image-to-code"
 ```
 
-提示里明确流水线：
+**方式 B：分步控制** —— 先出图确认，再用核心技能写代码：
+
+```bash
+npx skills add https://github.com/Leonxlnx/taste-skill --skill "imagegen-frontend-web"
+npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-frontend"
+```
+
+### 第 2 步：提需求，明确要先出图
+
+关键是在提示里**明确流水线顺序**，否则 Agent 可能跳过出图直接写码：
 
 ```
 follow the skill: generate images, then analyze, then code
-先出 3 个 hero 方向的参考稿，我选一个，然后再实现
+
+帮我做 Pulse 的落地页，包含以下板块：
+1. Hero：左对齐标题，右侧产品截图
+2. 客户 Logo 墙
+3. 三段核心价值（zig-zag 布局）
+4. 真实产品截图展示
+5. 价格对比
+6. FAQ
+7. 页脚 CTA
+
+气质：Linear 式极简，深墨绿 + 暖白 + 琥珀色
+受众：中小团队项目经理
+
+先为每个板块各生成一张设计参考图，我确认后再实现代码。
 ```
+
+### 第 3 步：Agent 逐板块生成设计参考图
+
+**硬规则：每个板块一张独立的横向参考图**，不会把整页压到一张图里。
+
+Agent 会按顺序输出：
+
+```
+Section 1 of 7: Hero
+（生成一张 Hero 设计参考图）
+
+Section 2 of 7: Trust Bar
+（生成一张客户 Logo 墙参考图）
+
+Section 3 of 7: Value Props
+（生成一张核心价值 zig-zag 布局参考图）
+
+...依此类推
+```
+
+出图规则（来自 `imagegen-frontend-web` SKILL.md）：
+
+- **每板块一图**：7 个板块 → 7 张图，绝不压缩成一张长图。
+- **Hero 构图偏差**：Agent 默认**不用**被滥用的「左文右图」，会优先考虑居中覆盖背景图、底部对齐、画布式、off-grid 编辑型等方案，除非「左文右图」确实最合适。
+- **反套路**：不会出 AI 紫辉光、黑底居中 hero、无意义的浮动色块、弱排版层级、重复板块。
+- **可实现性优先（IMPLEMENTATION_CLARITY: 9）**：图片长得像真实高端网站稿，不是抽象情绪板，开发者可以直接照着做。
+
+### 第 4 步：你确认或要求修改
+
+这一步是关键——**你控制设计方向，而不是让 Agent 猜**。
+
+```
+# 确认满意
+Hero 和 Trust Bar 满意，继续
+
+# 要求修改
+第 3 张（核心价值）太紧凑了，间距再大一点，左侧图片再大一些
+```
+
+```
+# 要求重新生成某个板块
+Hero 重做一版，不要居中构图，改成满屏背景图 + 左下角文字叠加
+```
+
+```
+# 要求多个方向供选择
+Hero 出三个不同方向的构图，我从里面选一个
+```
+
+**重新生成规则**（来自 SKILL.md 第 5-6 章）：
+- Agent 会为那个板块**生成全新的图片**，而不是裁剪旧图。
+- 新图保持相同的设计语言、配色、排版气质、按钮风格、圆角逻辑，只是构图/间距/细节不同。
+- 如果某个板块细节不够清晰，Agent 可以额外生成一张**局部放大图**（如定价卡的近景、导航栏的近景），用于提升分析精度。
+
+### 第 5 步：深度分析（Agent 把图当设计规范来读）
+
+确认后，Agent 对每张图做**系统化的深度分析**，而非草草一瞥：
+
+```
+Section 1 分析：
+- 结构：全屏暖白背景，左对齐文字区占 55%，右侧产品截图占 45%
+- 标题：Geist 字体，约 64px，深墨绿 #14352B，两行，行高约 1.05
+- 副标题：16px，#3A4A43，最多 18 词
+- CTA：琥珀色 #E0A458 实心按钮，圆角 pill 形，白色文字，padding 约 12px 24px
+- 间距：标题到副标题 24px，副标题到 CTA 40px，板块整体 padding-y 约 120px
+- 圆角体系：按钮 pill 形（9999px），卡片 12px
+- 对比度：CTA 白字在琥珀底上 4.8:1 ✓ WCAG AA
+```
+
+分析内容包括（不会跳过）：
+- 可见文字（标题、副标题、CTA 措辞）
+- 排版层级（字号、字重、行高关系）
+- 间距体系（内边距、gutter、板块间距）
+- 配色提取（主色、强调色、中性色）
+- 按钮形状与层级
+- 圆角逻辑
+- 卡片/区块节奏
+- 分割线/描边用法
+- 响应式适配思路
+
+### 第 6 步：按图忠实实现代码
+
+分析完成后 Agent 才开始写代码。代码**忠实于你确认的设计图**，不是 Agent 随意发挥。
+
+`image-to-code` 技能的特殊档位：
+
+| 档位 | 值 | 含义 |
+| --- | --- | --- |
+| `DESIGN_VARIANCE` | 8 | 布局差异度 |
+| `ART_DIRECTION` | 8 | 美术指导强度 |
+| `IMPLEMENTATION_CLARITY` | 9 | 图片的可实现程度（非常高） |
+| `ANALYSIS_PRECISION` | 10 | 分析精度（满档，深度提取设计细节） |
+| `IMAGE_GENERATION_EAGERNESS` | 10 | 出图积极性（满档，宁多不少） |
+| `UI_SIMPLICITY_DISCIPLINE` | 9 | 简洁纪律（激进减少杂乱和多余 UI 元素） |
+
+> **核心理念**：「图片是设计真相来源，代码是翻译层。」（The image is the design source. The code is the translation layer.）
+
+### 完整流程一图流
+
+```
+安装    npx skills add ... --skill "image-to-code"
+         （或分开装 imagegen-frontend-web + design-taste-frontend）
+           │
+提需求    在提示里写清板块、气质、受众、参考
+         明确说：先出图，我确认后再写代码
+           │
+出图      Agent 逐板块生成设计参考图（每板块一张独立横向图）
+           │
+确认/修改  你逐板块确认，不满意就要求重新生成或调整
+         可以要多个方向供选择
+           │
+深度分析   Agent 把确认后的图当设计规范逐项分析
+         （排版、间距、配色、按钮、圆角……）
+           │
+实现代码   按分析结果忠实实现前端代码
+           │
+pre-flight  按 SKILL.md 第 14 章逐项自检
+```
+
+### 关键注意事项
+
+1. **提示里必须明确「先出图」**：不写 `generate images first` 或「先出设计稿」，Agent 有可能跳过出图直接写码。
+2. **每个板块一张图**：这是硬规则。如果 Agent 想把多个板块塞进一张图（导致文字太小无法分析），可以提醒它遵守规则。
+3. **不要让 Agent 裁剪旧图**：需要修改就让它重新生成全新的板块图。
+4. **需要能生图的 Agent**：此工作流需要 Agent 支持图片生成（如 ChatGPT Images、Codex 图片模式）。纯文本 Agent 无法执行出图步骤，但可以接收你在其他工具里生成的图片再做分析+实现。
+5. **Codex 特殊规则**：在 Codex 中，Agent 会更偏向生成大尺寸、高可读性的板块图，以确保分析精度。
 
 ---
 
-## 十三、需求和文案该写在哪
+## 十四、需求和文案该写在哪
 
 Taste Skill **没有命令，也没有 `PRODUCT.md` 之类的上下文文件**，所有信息都在两个地方：
 
@@ -539,7 +713,7 @@ Taste Skill **没有命令，也没有 `PRODUCT.md` 之类的上下文文件**�
 
 ---
 
-## 十四、常见问题
+## 十五、常见问题
 
 **和其他 AI 设计技能有什么不同？**
 多个专用变体、关键技能里可调档位、基于专门研究的反重复规则，且跨主流编码 Agent 框架无关。
@@ -557,7 +731,7 @@ Taste Skill **没有命令，也没有 `PRODUCT.md` 之类的上下文文件**�
 
 ---
 
-## 十五、资源与反馈
+## 十六、资源与反馈
 
 - GitHub 仓库：<https://github.com/Leonxlnx/taste-skill>
 - 官方文档站：<https://tasteskill.dev>
