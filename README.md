@@ -28,6 +28,9 @@
 - [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
+#### 开源
+- [dev-browser](https://github.com/SawyerHood/dev-browser)
+
 #### UI / 设计
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
 - [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
