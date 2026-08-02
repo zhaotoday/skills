@@ -115,6 +115,7 @@
 - [marketing-skills](https://github.com/kostja94/marketing-skills)
 - [Viral_Writer_Skill](https://github.com/nashsu/Viral_Writer_Skill)
 - [digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)
+- [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)
 
 #### 资源合集
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
