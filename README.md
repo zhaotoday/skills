@@ -29,6 +29,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 开源
+- [yaojingang](https://github.com/yaojingang)
 - [op7418](https://github.com/op7418)
 - [dev-browser](https://github.com/SawyerHood/dev-browser)
 
