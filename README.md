@@ -28,7 +28,8 @@
 - [Taste-Skill：33K Stars 的反 AI Slop 前端设计技能库](https://www.bilibili.com/video/BV11R7S68EGq/)
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
-#### 开源
+#### 未整理的开源项目
+- [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)
 - [oil-tone](https://github.com/oil-oil/oil-tone)
 - [eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)
 - [unifapi-agent/agents](https://github.com/unifapi-agent/agents)
