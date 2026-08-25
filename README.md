@@ -29,6 +29,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 未整理的开源项目
+- [code-review-skill](https://github.com/awesome-skills/code-review-skill)
 - [typescript-style-guide](https://github.com/mkosir/typescript-style-guide)
 - [dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)
 - [oil-tone](https://github.com/oil-oil/oil-tone)
