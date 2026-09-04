@@ -51,6 +51,7 @@
 - [taste-skill](https://github.com/Leonxlnx/taste-skill)
 - [impeccable](https://github.com/pbakaus/impeccable)
 - [design.md](https://github.com/google-labs-code/design.md)
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [huashu-design](https://github.com/alchaincyf/huashu-design)
 - [emilkowalski/skills](https://github.com/emilkowalski/skills)
 - npx skills add anthropics/skills --skill frontend-design
@@ -78,7 +79,6 @@
 
 #### 去 AI 味
 - [humanizer](https://github.com/blader/humanizer)
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
 - [stop-slop](https://github.com/hardikpandya/stop-slop)
 - [Humanizer-zh](https://github.com/op7418/Humanizer-zh)
 - [AIWriteX](https://github.com/iniwap/AIWriteX)
