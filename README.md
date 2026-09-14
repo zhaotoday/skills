@@ -1,4 +1,5 @@
 #### 网站
+- [Skills 教程](https://www.runoob.com/vibe-coding/skills-agent.html)
 - [ui-skills](https://www.ui-skills.com/)
 - [typeui](https://www.typeui.sh/)
 - [superdesign](https://superdesign.dev/)
