@@ -1,4 +1,5 @@
 #### 网站
+- [Agent Skills](https://platform.claude.com/docs/zh-CN/agents-and-tools/agent-skills/overview)
 - [Skills 教程](https://www.runoob.com/vibe-coding/skills-agent.html)
 - [ui-skills](https://www.ui-skills.com/)
 - [typeui](https://www.typeui.sh/)
