@@ -31,6 +31,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 未整理的开源项目
+- [claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone)
 - [skills](https://marketing-skills.com/skills)
 - [open-webSearch](https://github.com/Aas-ee/open-webSearch)
 - [ponytail](https://github.com/DietrichGebert/ponytail)
