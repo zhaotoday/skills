@@ -31,6 +31,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 未整理的开源项目
+- [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
 - [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)
 - [iannuttall/seo](https://github.com/iannuttall/seo)
 - [affiliate-skills](https://github.com/Affitor/affiliate-skills)
