@@ -31,6 +31,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 未整理的开源项目
+- [diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image)
 - [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
 - [rea](https://github.com/morluto/rea)
