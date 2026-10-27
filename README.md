@@ -31,6 +31,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 未整理的开源项目
+- [ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 - [humanize-text](https://github.com/lynote-ai/humanize-text)
 - [text-humanizer](https://github.com/kurelas/text-humanizer)
 - [geo-doctor](https://github.com/Fangx-AI/geo-doctor)
