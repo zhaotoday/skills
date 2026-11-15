@@ -32,6 +32,7 @@
 - [【Impeccable】33.3k ⭐ 的设计Skill - 给 AI 写的前端祛魅，解决AI设计同质化](https://www.bilibili.com/video/BV128Vy6qEWe/)
 
 #### 未整理的开源项目
+- [humanizer-zh](https://github.com/ai-zixun/humanizer-zh)
 - [oh-my-writing-skill](https://github.com/z0gsh1u/oh-my-writing-skill)
 - [modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
 - [chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)
