@@ -40,14 +40,12 @@
 - [ai-design-skills](https://github.com/elayadesign/ai-design-skills)
 - [humanize-text](https://github.com/lynote-ai/humanize-text)
 - [text-humanizer](https://github.com/kurelas/text-humanizer)
-- [agentic-seo](https://github.com/addyosmani/agentic-seo)
 - [diagram-design](https://github.com/cathrynlavery/diagram-design)
 - [native-subtitle-quote-image](https://github.com/chengyi-ai/native-subtitle-quote-image)
 - [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion)
 - [rea](https://github.com/morluto/rea)
 - [better-auth-best-practices/SKILL](https://github.com/novuhq/novu/blob/next/.claude/skills/better-auth-best-practices/SKILL.md)
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator)
-- [iannuttall/seo](https://github.com/iannuttall/seo)
 - [affiliate-skills](https://github.com/Affitor/affiliate-skills)
 - [marketing-skills](https://github.com/irinabuht12-oss/marketing-skills)
 - [claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone)
@@ -60,7 +58,6 @@
 - [video-publisher-skill](https://github.com/oil-oil/video-publisher-skill)
 - [archify](https://github.com/tt-a1i/archify)
 - [anti-distill](https://github.com/leilei926524-tech/anti-distill)
-- [open-seo](https://github.com/every-app/open-seo)
 - [patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill)
 - [skills_collection](https://github.com/wwwzhouhui/skills_collection)
 - [skill-flow](https://github.com/VintLin/skill-flow)
@@ -116,15 +113,6 @@
 - [De-AI-Prompt-Enhancer-Writer-Booster-SKILL](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL)
 - [qu-ai-wei](https://github.com/LifelongLazyLearner/qu-ai-wei)
 - [ximen-aimazi](https://github.com/ximencuisu/ximen-aimazi)
-
-#### SEO
-- [seomachine](https://github.com/TheCraigHewitt/seomachine)
-- [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
-- [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill)
-- [codex-seo](https://github.com/AgriciDaniel/codex-seo)
-- [seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)
-- [superseo-skills](https://github.com/inhouseseo/superseo-skills)
-- [Google-SEOs.skill](https://github.com/zlbigger/Google-SEOs.skill)
 
 #### 逆向
 - [reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
