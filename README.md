@@ -137,6 +137,7 @@
 
 #### 电商
 - [ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill)
+- [zgg-find-ecommerce-skills](https://github.com/zarockfat/zgg-find-ecommerce-skills)
 
 #### 资源合集
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
