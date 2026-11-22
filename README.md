@@ -135,6 +135,9 @@
 - [digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)
 - [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)
 
+#### 电商
+- [ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill)
+
 #### 资源合集
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
 - [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
