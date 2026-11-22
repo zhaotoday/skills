@@ -71,6 +71,7 @@
 - [yaojingang](https://github.com/yaojingang)
 - [op7418](https://github.com/op7418)
 - [dev-browser](https://github.com/SawyerHood/dev-browser)
+- [cangjie-skill](https://github.com/kangarooking/cangjie-skill)
 
 #### UI / 设计
 - [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
@@ -138,6 +139,9 @@
 #### 电商
 - [ecommerce-visual-copywriting-skill](https://github.com/feichanggege/ecommerce-visual-copywriting-skill)
 - [zgg-find-ecommerce-skills](https://github.com/zarockfat/zgg-find-ecommerce-skills)
+- [Amazon-Skills](https://github.com/nexscope-ai/Amazon-Skills)
+- [ecommerce-skills](https://github.com/dlazy-ai/ecommerce-skills)
+- [ecommerce-image-skills](https://github.com/xianyu110/ecommerce-image-skills)
 
 #### 资源合集
 - [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
